@@ -1,7 +1,7 @@
 # Sheam's Photography
 ## Live site link-
 ```bash
-
+https://photographer-6b896.web.app/
 ```
 
 ## Features & Functionalities-
@@ -10,7 +10,7 @@
 * You can read about me in the about section.
 * I wrote some blogs also, find out that in the blogs tab.
 * You must login first to checkout any of my packages.
-*You will find create new account option.
+* You will find create new account option.
 * You can also sign in with your google account.(Remember your password if you logged in with email)
 * Forgot Password? Don't Worry, you will get the option
 *I assure you, Im gonna make you happy with my photography😊.
