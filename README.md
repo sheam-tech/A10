@@ -1,7 +1,7 @@
 # Sheam's Photography
 ## Live site link-
 ```bash
-https://photographer-6b896.web.app/
+[Live Site](https://photographer-6b896.web.app/)
 ```
 
 ## Features & Functionalities-
