@@ -1,0 +1,21 @@
+.image-container{
+    display: flex;
+    justify-content: center;
+}
+.profile-image{
+    max-height:400px;
+    max-width:400px;
+    border-radius: 2%;
+    border: 5px solid rgb(223, 195, 195);
+
+    
+}
+
+@media only screen and(max-width:576px) {
+    .profile-image{
+        height:200px;
+        width:200px;
+        border-radius: 50%;
+        
+    }
+}
