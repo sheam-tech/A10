@@ -1,0 +1,72 @@
+[
+   
+    {
+    "id": 1,
+    "name": "Portrait Photography",
+    "price": 50,
+    "description": "One of the most common photography styles, portrait photography, or portraiture, aims to capture the personality and mood of an individual or group. Images may be candid or posed, full body or close-ups.",
+    "image": "https://img.freepik.com/free-photo/portrait-bearded-young-reporter-with-photo-camera-dark-photo-studio_613910-3843.jpg?t=st=1651605066~exp=1651605666~hmac=621622530355bc00c58bca6bfff0ba5ad002f09e32718d3e0ab96dd6941510b9&w=1060"
+    },
+
+    {
+    "id": 2,
+    "name": "Photojournalism",
+    "price": 100,
+    "description": "Photojournalism is a way of telling the story of a newsworthy (perhaps even historic) event or scene through photographs. Photojournalism should be as objective and truthful as possible and capturing candid moments as they happen is more important than getting picture-perfect shots.",
+    "image": "https://img.freepik.com/free-photo/video-camera-taking-live-video-streaming-people-working-background_44344-377.jpg?w=1060"
+    },
+    
+    {
+    "id": 3,
+    "name": "Fashion Photography",
+    "price": 500,
+    "description": "Fashion photography showcases and glamorizes fashion clothing, shoes, and accessories to make them more desirable to consumers. It is commonly published in magazines and online. People may choose this niche over different types of photography because of the opportunity to be highly creative in making photographs eye-catching and appealing.",
+    "image": "https://img.freepik.com/free-photo/studio-portrait-blonde-female-photographer-taking-pictures-with-compact-camera-grey-background_613910-9350.jpg?t=st=1651605260~exp=1651605860~hmac=0208b7b16fff89f545c6c9ad1749823783269233aebeebb39a4c3b87ea2ae448&w=1060"
+    },
+    {
+        "id": 4,
+        "name": "Sports Photography",
+        "price": 1000,
+        "description": "By catching athletes, coaches, and even fans at the perfect moment, sports photographs can depict the passion, drama, and emotion that fuels sporting events. Sports photographers must aim and shoot quickly to keep up with the action around them, and it’s best practice to use a higher ISO to shoot at a faster shutter speed.",
+        "image": "https://img.freepik.com/free-photo/3d-illustration-sport-car-stance-modified_127113-46.jpg?w=1380"
+        },
+    
+        {
+        "id": 5,
+        "name": "Still Life Photography",
+        "price": 300,
+        "description": "Like it sounds, still life photography features inanimate objects—natural or manmade. Still life photography can be artistic or commercial. It is commonly used in stock photography as well as product advertising.",
+        "image": "https://img.freepik.com/free-photo/still-life-photography-fresh-fruits-white-plate-black-background_181624-6694.jpg?t=st=1651605479~exp=1651606079~hmac=a788f575a8936bf09b9f38b22d73eaf61ab85a9d733a7f2a4aaa09d1552b7e0c&w=740"
+        },
+        
+        {
+        "id": 6,
+        "name": "Editorial Photography",
+        "price": 400,
+        "description": "Editorial photography is taken to illustrate a story or article, typically for a magazine or newspaper. The subject of editorial photography can vary widely and is entirely dependent on the topic of the text it accompanies.",
+        "image": "https://s.studiobinder.com/wp-content/uploads/2021/03/Types-of-editorial-photography-%E2%80%94-Photo-by-Sahar-Rana.jpg.webp?resolution=1707,0.75"
+        },
+     {   "id": 7,
+    "name": "Architectural Photography",
+    "price": 250,
+    "description": "Both the interior and exterior design of buildings and structures are the subject of architectural photography. From warehouses to city bridges to old country barns, this genre encompasses diverse structures.",
+    "image": "https://img.freepik.com/free-photo/berlin-concert-hall-germany_181624-18088.jpg?t=st=1651605702~exp=1651606302~hmac=38592dc3284a880a35a121750448d1e1b86f853d41e8e32d1a37145b2d0bacc7&w=1380"
+    },
+
+    {
+    "id": 8,
+    "name": "Wild-life Photography",
+    "price": 500,
+    "description": "Our comprehensive heart services include general and preventive cardiology, cardiac testing and imaging, specialized cardiology and cardiac surgery.",
+    "image": "https://img.freepik.com/free-photo/one-crown-lemur-crawls-branches-tree_258981-2056.jpg?w=1060"
+    },
+    
+    {
+    "id": 9,
+    "name": "Wedding Photography",
+    "price": 400,
+    "description": "UCLA Health patients can expect comprehensive and individualized cancer care, delivered in convenient locations across Southern California.",
+    "image": "https://img.freepik.com/free-photo/man-woman-celebrating-their-wedding-beach_23-2149003475.jpg?t=st=1651605818~exp=1651606418~hmac=3e27ec87d701a76de926a7789a295296ce6a4a24efd957f976a3fb44f2f7ff6e&w=1060"
+    }
+    
+]
