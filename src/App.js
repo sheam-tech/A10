@@ -3,7 +3,7 @@ import About from './About/About';
 import './App.css';
 import Blogs from './Blogs/Blogs';
 import Register from './Register/Register';
-
+import Checkout from './Checkout/Checkout';
 import Footer from './Footer/Footer';
 import Header from './Header/Header';
 import Home from './Home/Home';
@@ -28,7 +28,7 @@ function App() {
         <Route path="/register" element={<Register></Register>}></Route>
         <Route path="/login" element={<Login></Login>}></Route>
         <Route path="/checkout" element={<RequireAuth>
-          
+          <Checkout></Checkout>
         </RequireAuth>}></Route>
 
       </Routes>
