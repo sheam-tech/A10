@@ -7,6 +7,7 @@ import Blogs from './Blogs/Blogs';
 import Footer from './Footer/Footer';
 import Header from './Header/Header';
 import Home from './Home/Home';
+import NotFound from './NotFound/NotFound';
 
 
 
