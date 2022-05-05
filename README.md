@@ -1,8 +1,8 @@
 # Sheam's Photography
 ## Live site link-
-```bash
+
 [Live Site](https://photographer-6b896.web.app)
-```
+
 
 ## Features & Functionalities-
 * Its a website that gives some example of my photography and some packages which I offer to my customers
