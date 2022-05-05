@@ -1,0 +1,14 @@
+.service-card{
+    height:100%;
+    position:relative;
+}
+.checkout-btn{
+    position:absolute;
+    bottom:0px;
+    left:0px;
+    text-decoration: none;
+    font-weight:bold;
+    text-align: center;
+    padding:5px 0;
+    border-radius: 5px;
+}
